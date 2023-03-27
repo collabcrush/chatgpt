@@ -8,6 +8,7 @@ For this project, you'll need:
 First, install the python modules:
 
 pip install webex_bot
+
 pip install openai
 
 Second, go to developer.webex.com and create a bot.
